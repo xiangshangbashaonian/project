@@ -1,2 +1,2 @@
 new feature
-haha
+冲突解决
